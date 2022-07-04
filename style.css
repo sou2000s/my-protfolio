@@ -16,7 +16,9 @@ font-family: 'Trispace', sans-serif;
     width: 50%;
 }
 
-
+.start h1{
+    font-size: 80px;
+}
 
 .brown-{
     color: brown;
@@ -54,6 +56,7 @@ font-family: 'Trispace', sans-serif;
 
 .dream-big h1{
     color: brown;
+    font-size: 80px;
 }
 
 .dream-big-text{
@@ -77,6 +80,7 @@ font-family: 'Trispace', sans-serif;
     padding-left: 5%;
 
 
+
 }
 .projects .flex-container{
     display: flex;
@@ -86,11 +90,23 @@ font-family: 'Trispace', sans-serif;
 }
 
 #pro-1{
-    border-left: 5px solid blue;
+   border-left: 5px solid blue;
    width: 40%;
    box-shadow:10px 5px 5px black;
    margin-right:5%;
    margin-right: 5%;
+}
+#pro-1 h1{
+    font-size: 30px;
+}
+#pro-2 h1{
+    font-size: 30px;
+}
+#pro-1 p{
+  padding: 3%;
+} 
+#pro-2 p{
+    padding-left: 3%;
 }
 
 #pro-2{
