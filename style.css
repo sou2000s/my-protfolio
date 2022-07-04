@@ -1,38 +1,36 @@
 body{
-font-family: 'Arima', cursive;
+    font-family: 'Arima', cursive;
 font-family: 'Trispace', sans-serif;
 }
 
-
-section{
- display: flex;
+/* top section/ start */
+.start{
+    display: flex;
+    padding-top: 5%;
 }
-
-.half-width{
-    width: 50%;
+section .text{
     padding-left: 5%;
+    
 }
 
-.orange-c{
+
+
+.brown-{
+    color: brown;
+}
+.orange-{
     color: orange;
 }
-.half-width img{
+
+section img{
     width: 80%;
+    padding-bottom: 10%;
 }
 
-
-a{
-    text-decoration: none;
-    background-color: #97233F;
-    color: white;
-    padding: 15px;
-    margin-top: 20px;
-
-}
-
-
-.Skills h1{
-    padding-left: 5%;
-  
+.start a{
+  text-decoration: none;
+  color: bisque;
+  background-color: black;
+  padding: 10px;
 }
 
